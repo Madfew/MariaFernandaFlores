@@ -1,0 +1,7 @@
+C:\Users\a07e203\Desktop\MariaFernandaFlores\MaferFlores\MaferFlores\bin\Debug\MaferFlores.exe.config
+C:\Users\a07e203\Desktop\MariaFernandaFlores\MaferFlores\MaferFlores\bin\Debug\MaferFlores.exe
+C:\Users\a07e203\Desktop\MariaFernandaFlores\MaferFlores\MaferFlores\bin\Debug\MaferFlores.pdb
+C:\Users\a07e203\Desktop\MariaFernandaFlores\MaferFlores\MaferFlores\obj\Debug\MaferFlores.csprojResolveAssemblyReference.cache
+C:\Users\a07e203\Desktop\MariaFernandaFlores\MaferFlores\MaferFlores\obj\Debug\MaferFlores.csproj.CoreCompileInputs.cache
+C:\Users\a07e203\Desktop\MariaFernandaFlores\MaferFlores\MaferFlores\obj\Debug\MaferFlores.exe
+C:\Users\a07e203\Desktop\MariaFernandaFlores\MaferFlores\MaferFlores\obj\Debug\MaferFlores.pdb
